@@ -1,3 +1,3 @@
-Movie Correlation between budget and gross earnings/n
-Lazada Specific Product Web Scraper/n
+Movie Correlation between budget and gross earnings$nbsp;
+Lazada Specific Product Web Scraper$nbsp;
 Thesis Learning Gain Visualization
